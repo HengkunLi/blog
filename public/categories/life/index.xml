@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>life on 业余开发者</title>
+    <link>https://yeyu.dev/categories/life/</link>
+    <description>Recent content in life on 业余开发者</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 23:09:10 +0800</lastBuildDate><atom:link href="https://yeyu.dev/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重新起航</title>
+      <link>https://yeyu.dev/posts/restart/</link>
+      <pubDate>Sun, 01 May 2022 23:09:10 +0800</pubDate>
+      
+      <guid>https://yeyu.dev/posts/restart/</guid>
+      <description>还在大学期间时，就开始写自己的独立博客，10 多年过去了，以前写的博客早已放弃维护，域名和文章都消失了，很是可惜。
+过去十年，做过程序员/渠道/市场，也自己创过业，投过资，回头再看，真正能让自己有所积累的，寥寥无几。
+打算以这次学习 go，努力成为一名专业开发者为契机，再次开启自己的独立博客之旅，记录自己的学习和成长。
+package main  import &amp;#34;fmt&amp;#34;  func main(){  fmt.Println(&amp;#34;hello world&amp;#34;) } </description>
+    </item>
+    
+  </channel>
+</rss>

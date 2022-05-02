@@ -2,8 +2,8 @@
 title: "重新起航"
 date: 2022-05-01T23:09:10+08:00
 draft: false
-tags: ["life", "meme"]
-categories: ["tech"]
+tags: ["mood"]
+categories: ["life"]
 ---
 
 还在大学期间时，就开始写自己的独立博客，10 多年过去了，以前写的博客早已放弃维护，域名和文章都消失了，很是可惜。

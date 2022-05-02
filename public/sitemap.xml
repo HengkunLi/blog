@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yeyu.dev/categories/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/categories/life/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/tags/mood/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/posts/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/tags/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/posts/restart/</loc>
+    <lastmod>2022-05-01T23:09:10+08:00</lastmod>
+  </url><url>
+    <loc>https://yeyu.dev/archives/</loc>
+  </url><url>
+    <loc>https://yeyu.dev/search/</loc>
+  </url>
+</urlset>
