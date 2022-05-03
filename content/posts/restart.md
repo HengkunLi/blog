@@ -1,5 +1,5 @@
 ---
-title: "重新起航~"
+title: "重新起航"
 date: 2022-05-01T23:09:10+08:00
 draft: false
 tags: ["mood"]
